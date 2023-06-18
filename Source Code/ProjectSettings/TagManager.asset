@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyTop
+  - PlatformEdge
+  - Bullet
+  - LootBox
+  - Wall
+  - Boss
+  - Ladder
+  - Box
+  - DisableVision
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Player
+  - Enemy
+  - EnemiesDontCollide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 710591483
+    locked: 0
+  - name: Platform
+    uniqueID: 2489859363
+    locked: 0
+  - name: Foreground
+    uniqueID: 2860376975
+    locked: 0
+  - name: canvas
+    uniqueID: 923744917
+    locked: 0

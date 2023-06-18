@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: 4c7715694a24203499027dea0f6c2637
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5673232844187044680
+    second: HikerSteve_idle0-3
+  - first:
+      213: 9003326402407880650
+    second: HikerSteve_jump1Andidle1
+  - first:
+      213: -5546073829493341543
+    second: HikerSteve_jump2AndIdle2
+  - first:
+      213: -8559817069547074465
+    second: HikerSteve_jump3
+  - first:
+      213: -507914616932709984
+    second: HikerSteve_jump5
+  - first:
+      213: 8857194409649713270
+    second: HikerSteve_jump6
+  - first:
+      213: -1484946511812799529
+    second: HikerSteve_jump4
+  - first:
+      213: 3624860327021352713
+    second: HikerSteve_7
+  - first:
+      213: 5596482540314224514
+    second: HikerSteve_8
+  - first:
+      213: 294385555430035267
+    second: HikerSteve_9
+  - first:
+      213: -7099370259434340351
+    second: HikerSteve_10
+  - first:
+      213: -4925104778269592712
+    second: HikerSteve_gunPose
+  - first:
+      213: -1245127242669194933
+    second: HikerSteve_12
+  - first:
+      213: -3390986940857679603
+    second: HikerSteve_13
+  - first:
+      213: 6225527254576355765
+    second: HikerSteve_14
+  - first:
+      213: 53032938939939446
+    second: HikerSteve_lookingForward
+  - first:
+      213: -3658262093405073356
+    second: HikerSteve_16
+  - first:
+      213: 1742836082867243364
+    second: HikerSteve_17
+  - first:
+      213: 1271596821223899840
+    second: HikerSteve_18
+  - first:
+      213: -6834942095747055489
+    second: HikerSteve_19
+  - first:
+      213: 7983155321124825404
+    second: HikerSteve_20
+  - first:
+      213: -31547622863837397
+    second: HikerSteve_21
+  - first:
+      213: -4015243195027580268
+    second: HikerSteve_22
+  - first:
+      213: -4607042163125575959
+    second: HikerSteve_23
+  - first:
+      213: -6102660332905147874
+    second: HikerSteve_lookingBack
+  - first:
+      213: -2399586139486464658
+    second: HikerSteve_25
+  - first:
+      213: 8846775140965876887
+    second: HikerSteve_26
+  - first:
+      213: -4267878603120041804
+    second: HikerSteve_27
+  - first:
+      213: 1055001878794263083
+    second: HikerSteve_28
+  - first:
+      213: 3801714618750411579
+    second: HikerSteve_29
+  - first:
+      213: 2082520775353728656
+    second: HikerSteve_30
+  - first:
+      213: 5076732650159304228
+    second: HikerSteve_31
+  - first:
+      213: 1748846453178865962
+    second: HikerSteve_32
+  - first:
+      213: -5773473948756553338
+    second: HikerSteve_walk0-9
+  - first:
+      213: -7039814986955183001
+    second: HikerSteve_walk1
+  - first:
+      213: 4173830261948266801
+    second: HikerSteve_35
+  - first:
+      213: 2089509780083297128
+    second: HikerSteve_36
+  - first:
+      213: -8520113249258289486
+    second: HikerSteve_37
+  - first:
+      213: -4166280347601040883
+    second: HikerSteve_38
+  - first:
+      213: -381051593352018548
+    second: HikerSteve_39
+  - first:
+      213: -3997494379054068195
+    second: HikerSteve_40
+  - first:
+      213: -4784270244800149930
+    second: HikerSteve_walk8
+  - first:
+      213: 1562378019695631968
+    second: HikerSteve_42
+  - first:
+      213: -7806590999091375938
+    second: HikerSteve_43
+  - first:
+      213: 2640669565320417003
+    second: HikerSteve_44
+  - first:
+      213: -4679960304268650186
+    second: HikerSteve_45
+  - first:
+      213: 7159948856276552239
+    second: HikerSteve_46
+  - first:
+      213: -1244974346934721787
+    second: HikerSteve_47
+  - first:
+      213: -3633800990955240914
+    second: HikerSteve_48
+  - first:
+      213: 528111955013718529
+    second: HikerSteve_49
+  - first:
+      213: 8857655596599490278
+    second: HikerSteve_50
+  - first:
+      213: -4478697353464908328
+    second: HikerSteve_51
+  - first:
+      213: 705786223685855763
+    second: HikerSteve_52
+  - first:
+      213: -6917383987878453196
+    second: HikerSteve_53
+  - first:
+      213: -2403207933497277042
+    second: HikerSteve_54
+  - first:
+      213: 1055361520527216787
+    second: HikerSteve_55
+  - first:
+      213: 5446412801097006315
+    second: HikerSteve_56
+  - first:
+      213: -7831152442289691419
+    second: HikerSteve_57
+  - first:
+      213: -2814510955574195230
+    second: HikerSteve_58
+  - first:
+      213: 2700382178184587974
+    second: HikerSteve_59
+  - first:
+      213: 1278218209885012942
+    second: HikerSteve_60
+  - first:
+      213: 1814313620614737030
+    second: HikerSteve_61
+  - first:
+      213: -5404204173196763617
+    second: HikerSteve_62
+  - first:
+      213: 4243009603909904777
+    second: HikerSteve_63
+  - first:
+      213: 4189920776249966541
+    second: HikerSteve_64
+  - first:
+      213: 6386337211561984187
+    second: HikerSteve_65
+  - first:
+      213: 3787965035566768128
+    second: HikerSteve_66
+  - first:
+      213: -1746897701591702846
+    second: HikerSteve_67
+  - first:
+      213: 5613194601426889634
+    second: HikerSteve_68
+  - first:
+      213: -2703570622229381392
+    second: HikerSteve_69
+  - first:
+      213: -6584617108675554450
+    second: HikerSteve_70
+  - first:
+      213: 4608695686906872171
+    second: HikerSteve_71
+  - first:
+      213: 4281636933681213476
+    second: HikerSteve_72
+  - first:
+      213: -3022619789964712594
+    second: HikerSteve_73
+  - first:
+      213: -3560308779551047961
+    second: HikerSteve_74
+  - first:
+      213: -4891667586346633574
+    second: HikerSteve_75
+  - first:
+      213: -5777209784060732054
+    second: HikerSteve_fall0
+  - first:
+      213: 5704199938215580408
+    second: HikerSteve_fall1
+  - first:
+      213: -1197623191573511812
+    second: HikerSteve_fall2
+  - first:
+      213: -5778913683582226501
+    second: HikerSteve_79
+  - first:
+      213: 4803253597516208495
+    second: HikerSteve_80
+  - first:
+      213: -1420311107580004090
+    second: HikerSteve_81
+  - first:
+      213: -8750463163801212608
+    second: HikerSteve_82
+  - first:
+      213: -7744329693019241105
+    second: HikerSteve_83
+  - first:
+      213: -5783221735400499844
+    second: HikerSteve_84
+  - first:
+      213: 3001293792258293151
+    second: HikerSteve_85
+  - first:
+      213: -2093376429033077586
+    second: HikerSteve_86
+  - first:
+      213: 4959387665582430151
+    second: HikerSteve_87
+  - first:
+      213: -6302874657155834001
+    second: HikerSteve_88
+  - first:
+      213: -5165964392108588138
+    second: HikerSteve_89
+  - first:
+      213: 3362359147521134647
+    second: HikerSteve_90
+  - first:
+      213: -7993733141790104949
+    second: HikerSteve_91
+  - first:
+      213: 9056647423714928894
+    second: HikerSteve_92
+  - first:
+      213: -3547788090196581852
+    second: HikerSteve_93
+  - first:
+      213: -5986586659280111705
+    second: HikerSteve_94
+  - first:
+      213: -6555630661280414212
+    second: HikerSteve_95
+  - first:
+      213: -2595445013533363750
+    second: HikerSteve_96
+  - first:
+      213: 4118796645003729506
+    second: HikerSteve_97
+  - first:
+      213: 3458261426977901967
+    second: HikerSteve_98
+  - first:
+      213: -700276807628584299
+    second: HikerSteve_99
+  - first:
+      213: -7778941875560542960
+    second: HikerSteve_100
+  - first:
+      213: -9189922651893222556
+    second: HikerSteve_101
+  - first:
+      213: 3108918367712230907
+    second: HikerSteve_102
+  - first:
+      213: 6645616060287654575
+    second: HikerSteve_103
+  - first:
+      213: 5733021318931170903
+    second: HikerSteve_104
+  - first:
+      213: 5380746068380417822
+    second: HikerSteve_105
+  - first:
+      213: 792838092194240614
+    second: HikerSteve_106
+  - first:
+      213: -2408185961538409036
+    second: HikerSteve_107
+  - first:
+      213: 7989275795048556046
+    second: HikerSteve_108
+  - first:
+      213: -961215924559321779
+    second: HikerSteve_109
+  - first:
+      213: 4034639793991840456
+    second: HikerSteve_110
+  - first:
+      213: -8535913451393906141
+    second: HikerSteve_111
+  - first:
+      213: 6181679952180754467
+    second: HikerSteve_112
+  - first:
+      213: 2591152829125282666
+    second: HikerSteve_113
+  - first:
+      213: -4670547355204177680
+    second: HikerSteve_114
+  - first:
+      213: -2942715295544868833
+    second: HikerSteve_115
+  - first:
+      213: -6349473609714016180
+    second: HikerSteve_116
+  - first:
+      213: 5977259259430591397
+    second: HikerSteve_117
+  - first:
+      213: -1772133750828154692
+    second: HikerSteve_118
+  - first:
+      213: -7515409549661556935
+    second: HikerSteve_119
+  - first:
+      213: -223464104442975287
+    second: HikerSteve_120
+  - first:
+      213: 1460652209580939546
+    second: HikerSteve_121
+  - first:
+      213: -2402639751257422995
+    second: HikerSteve_122
+  - first:
+      213: -8275394983941970280
+    second: HikerSteve_123
+  - first:
+      213: -3118449324622866665
+    second: HikerSteve_124
+  - first:
+      213: -8160367093921280665
+    second: HikerSteve_125
+  - first:
+      213: 3691430879447488876
+    second: HikerSteve_126
+  - first:
+      213: -1665948565462065128
+    second: HikerSteve_127
+  - first:
+      213: 7241784771131869594
+    second: HikerSteve_128
+  - first:
+      213: 1642241202619942845
+    second: HikerSteve_129
+  - first:
+      213: 2533818364568194369
+    second: HikerSteve_130
+  - first:
+      213: -7543138009690262541
+    second: HikerSteve_131
+  - first:
+      213: -6269133819756550594
+    second: HikerSteve_132
+  - first:
+      213: 2936703422237238636
+    second: HikerSteve_133
+  - first:
+      213: -7721790930220845492
+    second: HikerSteve_134
+  - first:
+      213: -7905447170398473675
+    second: HikerSteve_135
+  - first:
+      213: -8994896635086795600
+    second: HikerSteve_136
+  - first:
+      213: -6141262681891766936
+    second: HikerSteve_137
+  - first:
+      213: 6501475377265164533
+    second: HikerSteve_138
+  - first:
+      213: 6643772206132735015
+    second: HikerSteve_139
+  - first:
+      213: -8722196903589596895
+    second: HikerSteve_140
+  - first:
+      213: -2268118507165345596
+    second: HikerSteve_141
+  - first:
+      213: 5492014128740117993
+    second: HikerSteve_142
+  - first:
+      213: 5366885632320095067
+    second: HikerSteve_143
+  - first:
+      213: 4517081458467366823
+    second: HikerSteve_144
+  - first:
+      213: 4492710506088622713
+    second: HikerSteve_145
+  - first:
+      213: 2455641134651771436
+    second: HikerSteve_146
+  - first:
+      213: -790208916224641966
+    second: HikerSteve_147
+  - first:
+      213: -5122623349876713835
+    second: HikerSteve_148
+  - first:
+      213: -8800268403498500683
+    second: HikerSteve_149
+  - first:
+      213: -5509284024685690340
+    second: HikerSteve_150
+  - first:
+      213: 2484231775850265481
+    second: HikerSteve_151
+  - first:
+      213: 7808220775422157127
+    second: HikerSteve_152
+  - first:
+      213: -2091579525252968254
+    second: HikerSteve_153
+  - first:
+      213: -4086880714103567049
+    second: HikerSteve_154
+  - first:
+      213: -5301292363959487999
+    second: HikerSteve_155
+  - first:
+      213: 1074879797499511605
+    second: HikerSteve_156
+  - first:
+      213: -2809570204727040439
+    second: HikerSteve_157
+  - first:
+      213: 34668272554750644
+    second: HikerSteve_158
+  - first:
+      213: -4802404895733797396
+    second: HikerSteve_159
+  - first:
+      213: 2030195099888997900
+    second: HikerSteve_160
+  - first:
+      213: 7717376860873407491
+    second: HikerSteve_161
+  - first:
+      213: -8651535084281526107
+    second: HikerSteve_162
+  - first:
+      213: -1239532570456948983
+    second: HikerSteve_163
+  - first:
+      213: 2523884718111691048
+    second: HikerSteve_164
+  - first:
+      213: 2170383940453654301
+    second: HikerSteve_165
+  - first:
+      213: -6845573398626328211
+    second: HikerSteve_166
+  - first:
+      213: 3824969927956329141
+    second: HikerSteve_167
+  - first:
+      213: -6337551226718637219
+    second: HikerSteve_168
+  - first:
+      213: -6305691771986423334
+    second: HikerSteve_169
+  - first:
+      213: 4066365420233843305
+    second: HikerSteve_170
+  - first:
+      213: 3974568406586829763
+    second: HikerSteve_171
+  - first:
+      213: 8507729149903528794
+    second: HikerSteve_172
+  - first:
+      213: -3284807332251381764
+    second: HikerSteve_173
+  - first:
+      213: -632712064860565335
+    second: HikerSteve_174
+  - first:
+      213: 4995696929803830223
+    second: HikerSteve_175
+  - first:
+      213: 5497058656967396470
+    second: HikerSteve_176
+  - first:
+      213: 1541005668185977252
+    second: HikerSteve_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HikerSteve_idle0-3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1090
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b09d5b63f5bbe40800000000000000
+      internalID: 5673232844187044680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_jump1Andidle1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7da6c49ad32fc70800000000000000
+      internalID: 9003326402407880650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_jump2AndIdle2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1090
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99285f68c336803b0800000000000000
+      internalID: -5546073829493341543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_jump3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c42532abb653980800000000000000
+      internalID: -8559817069547074465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_jump5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a94f71d85683f8f0800000000000000
+      internalID: -507914616932709984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_jump6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703fbd53631bea70800000000000000
+      internalID: 8857194409649713270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_jump4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d351fcd309646be0800000000000000
+      internalID: -1484946511812799529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 834
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907938813471e4230800000000000000
+      internalID: 3624860327021352713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ea1f0833baad40800000000000000
+      internalID: 5596482540314224514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fc96a5a1ed51400800000000000000
+      internalID: 294385555430035267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1008175fc58f97d90800000000000000
+      internalID: -7099370259434340351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_gunPose
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87379a96c4386abb0800000000000000
+      internalID: -4925104778269592712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b418a88ae5b68bee0800000000000000
+      internalID: -1245127242669194933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018030f75bc0f0d0800000000000000
+      internalID: -3390986940857679603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95984cd04856650800000000000000
+      internalID: 6225527254576355765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_lookingForward
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af8ee4d296cb000800000000000000
+      internalID: 53032938939939446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305053220e3b3dc0800000000000000
+      internalID: -3658262093405073356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690905fe2ccf2810800000000000000
+      internalID: 1742836082867243364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2019a529e95a110800000000000000
+      internalID: 1271596821223899840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7002a280686521a0800000000000000
+      internalID: -6834942095747055489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c392a6ec77dd9ce60800000000000000
+      internalID: 7983155321124825404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2761b9aa9bef8ff0800000000000000
+      internalID: -31547622863837397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9399769df648c0800000000000000
+      internalID: -4015243195027580268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee17a1df8f7010c0800000000000000
+      internalID: -4607042163125575959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_lookingBack
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125250b2cefe4ba0800000000000000
+      internalID: -6102660332905147874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6555f3ae15f2bed0800000000000000
+      internalID: -2399586139486464658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79407055e1f06ca70800000000000000
+      internalID: 8846775140965876887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02a8cc50375c4c0800000000000000
+      internalID: -4267878603120041804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 641
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ad6ee7e9e14ae00800000000000000
+      internalID: 1055001878794263083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33270cad4762c430800000000000000
+      internalID: 3801714618750411579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e745c8c9996ec10800000000000000
+      internalID: 2082520775353728656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6f58927d247640800000000000000
+      internalID: 5076732650159304228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a299d685596254810800000000000000
+      internalID: 1748846453178865962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_walk0-9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 578
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681d464680080efa0800000000000000
+      internalID: -5773473948756553338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_walk1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca012619d8d4e90800000000000000
+      internalID: -7039814986955183001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 579
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b334628c6ce930800000000000000
+      internalID: 4173830261948266801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bc194031e6ffc10800000000000000
+      internalID: 2089509780083297128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b64cdb242a72c980800000000000000
+      internalID: -8520113249258289486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a8c8609166e26c0800000000000000
+      internalID: -4166280347601040883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_39
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850821489b36baf0800000000000000
+      internalID: -381051593352018548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_40
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e8cd8ba0c0688c0800000000000000
+      internalID: -3997494379054068195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_walk8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656473d7f8bda9db0800000000000000
+      internalID: -4784270244800149930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e16d4f78eaea510800000000000000
+      internalID: 1562378019695631968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09560f8da69a390800000000000000
+      internalID: -7806590999091375938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 513
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beecb129afa85a420800000000000000
+      internalID: 2640669565320417003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639532516e07d0fb0800000000000000
+      internalID: -4679960304268650186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_46
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a045cbc8f3d5360800000000000000
+      internalID: 7159948856276552239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5036b787d66f8bee0800000000000000
+      internalID: -1244974346934721787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 450
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2286ad5045229dc0800000000000000
+      internalID: -3633800990955240914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102da38660b345700800000000000000
+      internalID: 528111955013718529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e63012d5d6bcea70800000000000000
+      internalID: 8857655596599490278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5fd367c7878d1c0800000000000000
+      internalID: -4478697353464908328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae82eb4d47bc900800000000000000
+      internalID: 705786223685855763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a783b9e38000a0800000000000000
+      internalID: -6917383987878453196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 322
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858e720e1716aed0800000000000000
+      internalID: -2403207933497277042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39014ac16b565ae00800000000000000
+      internalID: 1055361520527216787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf685169b859b40800000000000000
+      internalID: 5446412801097006315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e36f4858225390800000000000000
+      internalID: -7831152442289691419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0e84a239d0f8d0800000000000000
+      internalID: -2814510955574195230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 319
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caec78a84fa97520800000000000000
+      internalID: 2700382178184587974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3c1a980b42db110800000000000000
+      internalID: 1278218209885012942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce4e310acbd2910800000000000000
+      internalID: 1814313620614737030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e5ceaefe86005b0800000000000000
+      internalID: -5404204173196763617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ee9b11c232ea30800000000000000
+      internalID: 4243009603909904777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf78613fb6952a30800000000000000
+      internalID: 4189920776249966541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_65
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 66
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c20f8bd3d0a850800000000000000
+      internalID: 6386337211561984187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ae8e512e819430800000000000000
+      internalID: 3787965035566768128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22eadbbc5c1c7e0800000000000000
+      internalID: -1746897701591702846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_68
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba03100c216ed40800000000000000
+      internalID: 5613194601426889634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef5dcd7dcfa7ad0800000000000000
+      internalID: -2703570622229381392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_70
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e631f6f50adbe94a0800000000000000
+      internalID: -6584617108675554450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_71
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 66
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6185ff2f4065ff30800000000000000
+      internalID: 4608695686906872171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_72
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f2492b1e6b6b30800000000000000
+      internalID: 4281636933681213476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656618c05f7d06d0800000000000000
+      internalID: -3022619789964712594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb720470e379ec0800000000000000
+      internalID: -3560308779551047961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9634845f3e4d1cb0800000000000000
+      internalID: -4891667586346633574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_fall0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d16247f4a33dfa0800000000000000
+      internalID: -5777209784060732054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_fall1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f215252f93692f40800000000000000
+      internalID: 5704199938215580408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikerSteve_fall2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71cd737d00316fe0800000000000000
+      internalID: -1197623191573511812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
